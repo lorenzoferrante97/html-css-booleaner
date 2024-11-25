@@ -4,3 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    height: 120px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-position: top;
+    background-size: contain;
+}
+
+header img {
+    width: 120px;
+}
