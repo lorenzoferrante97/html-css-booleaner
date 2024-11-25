@@ -51,3 +51,6 @@ thead {
     background-color: #4EA0FF;
     text-align: left;
 }
+tbody tr:nth-child(odd) {
+    background-color: #B1E5F2;
+}
