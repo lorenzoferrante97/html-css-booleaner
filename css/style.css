@@ -66,6 +66,9 @@ thead {
 tbody tr:nth-child(odd) {
     background-color: #B1E5F2;
 }
+.col-big {
+    width: 28%;
+}
 
 /* box "potrebbero interessarti" */
 #potrebbeinteressarti1, #potrebbeinteressarti2 {
