@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap');
 
-/* reset + stili globali */
+/* reset + stili body */
 * {
     margin: 0;
     padding: 0;
@@ -11,6 +11,7 @@ body {
     font-family: "Playfair Display", serif;
 }
 
+/* colori testi */
 .text-grey {
     color: gray;
 }
@@ -19,6 +20,14 @@ body {
 }
 .text-white {
     color: white;
+}
+
+/* dimensioni testi */
+.text-small {
+    font-size: 12px;
+}
+.text-big {
+    font-size: 18px;
 }
 
 /* stili elementi */
