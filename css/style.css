@@ -6,7 +6,6 @@
 }
 
 header {
-    height: 120px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     background-position: top;
@@ -15,4 +14,5 @@ header {
 
 header img {
     width: 120px;
+    margin-top: 40px;
 }
