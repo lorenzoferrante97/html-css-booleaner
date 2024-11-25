@@ -62,5 +62,13 @@ tbody tr:nth-child(odd) {
 /* box "potrebbero interessarti" */
 #potrebbeinteressarti1, #potrebbeinteressarti2 {
     width: 200px;
-    height: 120px;
+    height: 160px;
+
+    padding: 8px 12px;
+}
+#potrebbeinteressarti1 {
+    background-image: url(../img/monitor.jpg);
+}
+#potrebbeinteressarti2 {
+    background-image: url(../img/graph.jpg);
 }
