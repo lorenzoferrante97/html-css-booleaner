@@ -1,10 +1,17 @@
-/* reset */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap');
+
+/* reset + stili globali */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Playfair Display", serif;
+}
+
+/* stili elementi */
 header {
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
