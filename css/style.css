@@ -11,6 +11,16 @@ body {
     font-family: "Playfair Display", serif;
 }
 
+.text-grey {
+    color: gray;
+}
+.text-accent {
+    color: #4EA0FF;
+}
+.text-white {
+    color: white;
+}
+
 /* stili elementi */
 header {
     background-color: #4EA0FF;
