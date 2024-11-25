@@ -43,3 +43,11 @@ header img {
     width: 120px;
     margin-top: 40px;
 }
+/* tabella */
+table {
+    border-collapse: collapse;
+}
+thead {
+    background-color: #4EA0FF;
+    text-align: left;
+}
