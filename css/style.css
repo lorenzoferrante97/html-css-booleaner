@@ -43,6 +43,10 @@ header img {
     width: 120px;
     margin-top: 40px;
 }
+/* lista */
+ul {
+    padding-left: 20px;
+}
 /* tabella */
 table {
     border-collapse: collapse;
